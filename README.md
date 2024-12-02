@@ -14,7 +14,11 @@
 
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-![Contador de Visitas al perfil](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitas&query=value&url=https://api.countapi.xyz/hit/JeisonJossa.readme)
+![Contador de Visitas al perfil](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitas&query=value&url=https://api.countapi.xyz/hit/JeisonJossa/readme)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=JeisonJossa&color=blue)
+
+
+
 
 
 
