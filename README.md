@@ -5,7 +5,6 @@
 - 🌍 Vivo en Bogotá, Colombia.  
 - ✨ Apasionado por aprender nuevas tecnologías y resolver problemas.  
 
-
 # 📊 Estadísticas del Perfil
 
 ![Estadísticas de Jeison](https://github-readme-stats.vercel.app/api?username=JeisonJossa&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues)
